@@ -1,0 +1,15 @@
+.face {
+  background: #ffcc00;
+  width: 80px;
+  line-height: 80px;
+  font-weight: bold;
+  font-size: 35px;
+  border-radius: 50%;
+  text-align: center;
+}
+.face--sad {
+  background: red;
+}.face--superdark {
+  background: black;
+  color: lime;
+}
